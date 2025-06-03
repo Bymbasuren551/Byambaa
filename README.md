@@ -7,6 +7,6 @@
 </head>
 <body>
   <h1>Миний анхны вэб</h1>
-  <img src="photo.jpg" alt="Миний зураг" width="300">
+  <img src="IMG_0923.jpeg" alt="Миний зураг" width="300">
 </body>
 </html>
